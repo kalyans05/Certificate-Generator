@@ -1,0 +1,7 @@
+Flask
+google-api-python-client
+gspread
+oauth2client
+Pillow
+python-dotenv
+smtplib
